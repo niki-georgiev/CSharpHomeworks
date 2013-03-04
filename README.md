@@ -25,9 +25,9 @@ Ensure all fields hold correct data at any given time.
 06.Add a static field and a property IPhone4S in the GSM class to hold the information about iPhone 4S.
 
 07.Write a class GSMTest to test the GSM class:
-	- Create an array of few instances of the GSM class.
-	- Display the information about the GSMs in the array.
-	- Display the information about the static property IPhone4S.
+- Create an array of few instances of the GSM class.
+- Display the information about the GSMs in the array.
+- Display the information about the static property IPhone4S.
 
 08.Create a class Call to hold a call performed through a GSM. It should contain date, time, 
 dialed phone number and duration (in seconds).
