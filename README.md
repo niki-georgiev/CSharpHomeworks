@@ -31,10 +31,13 @@ Ensure all fields hold correct data at any given time.
 
 08.Create a class Call to hold a call performed through a GSM. It should contain date, time, 
 dialed phone number and duration (in seconds).
+
 09.Add a property CallHistory in the GSM class to hold a list of the performed calls. 
 Try to use the system class List<Call>.
+
 10.Add methods in the GSM class for adding and deleting calls from the calls history. 
 Add a method to clear the call history.
+
 11.Add a method that calculates the total price of the calls in the call history. 
 Assume the price per minute is fixed and is provided as a parameter.
 
